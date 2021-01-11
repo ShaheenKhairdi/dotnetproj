@@ -5,3 +5,14 @@ C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
 C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\AspnetCompileMerge\TempBuildDir\bin\HelloWorld.dll
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\AspnetCompileMerge\TempBuildDir\bin\HelloWorld.pdb
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\AspnetCompileMerge\TempBuildDir\default.aspx
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\AspnetCompileMerge\TempBuildDir\PrecompiledApp.config
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\AspnetCompileMerge\TempBuildDir\Web.config
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\Package\PackageTmp\PrecompiledApp.config
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\Package\PackageTmp\bin\HelloWorld.dll
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\Package\PackageTmp\bin\HelloWorld.pdb
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\Package\PackageTmp\default.aspx
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\Package\PackageTmp\Web.config
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\Package\HelloWorld.SourceManifest.xml
