@@ -1,0 +1,7 @@
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\bin\HelloWorld.dll
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\dotnetproj\HelloWorld\bin\HelloWorld.dll.config
